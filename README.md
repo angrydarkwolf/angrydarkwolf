@@ -1,6 +1,9 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=09F785&width=435&lines=Ol%C3%A1%2C+sou+Kau%C3%AA+Sequeira+!+;Software+Engineering+Student+%40+FIAP;De+Infraestrutura+ao+Full+Stack;Backend+%7C+Data+Analytics+%7C+Cloud;Transformando+dados+em+decis%C3%B5es)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=09F785&width=435&lines=Ol%C3%A1%2C+sou+Kau%C3%AA+Sequeira+!+;Software+Engineering+Student+%40+FIAP;De+Infraestrutura+ao+Full+Stack;Backend+%7C+Data+Analytics+%7C+Cloud;Transformando+dados+em+decis%C3%B5es" alt="Typing SVG" />
+  </a>
 </div>
+
 ---
 
 ### 👨‍💻 Sobre mim
