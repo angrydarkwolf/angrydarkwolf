@@ -1,7 +1,7 @@
 <!-- Header Animado com Efeito de Digitação -->
 <div align="center">
   <a href="https://github.com/angrydarkwolf">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=80&lines=Ol%C3%A1%2C+eu+sou+o+angrydarkwolf+!+%F0%9F%90%BA;Software+Engineering+Student+%40+FIAP;Data+%7C+Backend+%7C+Infrastructure;Resolvendo+problemas+complexos+na+raiz" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=80&lines=Ol%C3%A1%2C+eu+sou+Kauê+Sequeira!+%F0%9F%90%BA;Software+Engineering+Student+%40+FIAP;Data+%7C+Backend+%7C+Infrastructure;Resolvendo+problemas+complexos+na+raiz" alt="Typing SVG" />
   </a>
 </div>
 
