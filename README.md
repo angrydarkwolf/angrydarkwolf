@@ -13,7 +13,6 @@ Sou um Desenvolvedor em formação, focado em **Engenharia de Software, Dados e 
 - 🔭 Atualmente graduando em Engenharia de Software na **FIAP** (Previsão: Ago/2028).
 - 💼 Experiência prática em sustentação de infraestrutura, gestão de incidentes em ambientes críticos e automação de dados corporativos (ServiceNow, SAP).
 - 🎯 Foco atual: Criar APIs resilientes, explorar arquiteturas escaláveis e aprimorar minha base analítica.
-- ⚡ Curiosidade: Acredito que investigar logs é uma ciência e que um problema só está resolvido quando está documentado.
 
 ---
 
